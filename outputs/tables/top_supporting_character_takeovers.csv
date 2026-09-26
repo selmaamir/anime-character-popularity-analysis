@@ -1,0 +1,11 @@
+anime_id,title_display,main_character_id,top_main_character,main_favourites,supporting_character_id,top_supporting_character,supporting_favourites,supporting_advantage,supporting_to_main_ratio,winner_role,main_to_supporting_ratio,matchup_label
+131573,JUJUTSU KAISEN 0,129571,Yuuta Okkotsu,11693,127691,Satoru Gojou,39436,27743,3.3726160950996324,SUPPORTING,0.2965057308043412,Satoru Gojou over Yuuta Okkotsu
+172463,JUJUTSU KAISEN Season 3: The Culling Game Part 1,127212,Yuuji Itadori,21298,127691,Satoru Gojou,39436,18138,1.8516292609634708,SUPPORTING,0.5400649153058119,Satoru Gojou over Yuuji Itadori
+102883,JoJo's Bizarre Adventure: Golden Wind,10529,Giorno Giovanna,6819,4003,Joutarou Kuujou,14234,7415,2.087402844991934,SUPPORTING,0.4790642124490656,Joutarou Kuujou over Giorno Giovanna
+131681,Attack on Titan Final Season Part 2,40882,Eren Yeager,31874,45627,Levi,38336,6462,1.2027357721026541,SUPPORTING,0.8314378130217028,Levi over Eren Yeager
+11741,Fate/Zero Season 2,497,Artoria Pendragon,12157,500,Sakura Matou,17777,5620,1.4622851032327053,SUPPORTING,0.6838611689261406,Sakura Matou over Artoria Pendragon
+15583,Date A Live,65259,Tooka Yatogami,2714,70069,Kurumi Tokisaki,8060,5346,2.969786293294031,SUPPORTING,0.3367245657568238,Kurumi Tokisaki over Tooka Yatogami
+19603,Fate/stay night: Unlimited Blade Works,498,Rin Toosaka,12861,500,Sakura Matou,17777,4916,1.3822408832905684,SUPPORTING,0.7234629015019407,Sakura Matou over Rin Toosaka
+21875,"No Game, No Life Zero",123690,Schwi Dola,1703,82525,Shiro,5860,4157,3.440986494421609,SUPPORTING,0.2906143344709898,Shiro over Schwi Dola
+97986,Made in Abyss,122444,Reg,2562,122445,Nanachi,6194,3632,2.4176424668227945,SUPPORTING,0.413626089764288,Nanachi over Reg
+113813,Rent-a-Girlfriend,128106,Chizuru Ichinose,6809,154224,Mami Nanami,9740,2931,1.4304596857100895,SUPPORTING,0.699075975359343,Mami Nanami over Chizuru Ichinose
